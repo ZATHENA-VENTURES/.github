@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://zathenaventures.xyz/Square.png" alt="ZATHENA VENTURES Logo" width="120"/>
-  <h1>⚡ ZATHENA VENTURES ⚡</h1>
+  <img src="https://zathenaventures.xyz/Horizontal.png" alt="ZATHENA VENTURES Logo" width="350"/>
   <h3><i>Innovation. Creativity. Strategy. Execution.</i></h3>
 </div>
 
