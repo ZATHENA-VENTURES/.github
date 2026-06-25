@@ -34,29 +34,29 @@ A full spectrum of Web2 and Web3 solutions:
 A look at projects we've designed, built, and shipped in-house:
 
 **🏢 Business & Brands**
-- **New Covenant University** — full university hub with degree programs, online admissions, bookstore & giving — [ncu.education](https://ncu.education)
-- **Jarrad's Auto Service** — service catalog with a cart, online booking & a customer portal
-- **The Trinity Holistic Healing** — integrative holistic medicine & counseling practice
-- **Sabina Was Here** — art & merchandise e-commerce brand with Stripe checkout
+- **[New Covenant University](https://ncu.education)** — full university hub with degree programs, online admissions, bookstore & giving
+- **[Jarrad's Auto Service](https://jas.zathenaventures.xyz)** — service catalog with a cart, online booking & a customer portal
+- **[The Trinity Holistic Healing](https://thetrinityholistichealing.com)** — integrative holistic medicine & counseling practice
+- **[Sabina Was Here](https://sabina-was-here.com)** — art & merchandise e-commerce brand with Stripe checkout
 
 **🏕️ Hospitality, Retail & Lifestyle**
-- **Sound Ground** — 10-acre eco-campground, working farm & community in Blanco, TX — [soundgroundtx.com](https://www.soundgroundtx.com)
-- **Zathena Valley** — homestead farm store (quail, eggs & goods), events & community hub
-- **CannaCloud & Exclusive Smoke** — multi-brand smoke-shop storefront with online ordering
+- **[Sound Ground](https://www.soundgroundtx.com)** — 10-acre eco-campground, working farm & community in Blanco, TX
+- **[Zathena Valley](https://farm.zathenaventures.xyz)** — homestead farm store (quail, eggs & goods), events & community hub
+- **[CannaCloud & Exclusive Smoke](https://smokeshopbtx.zathenaventures.xyz)** — multi-brand smoke-shop storefront with online ordering
 
 **🎙️ Artists & Creators**
-- **ZADANxyz** — artist hub with music streaming + visualizer, videography & photography
-- **PaperShoots** — an immersive "daemonOS" desktop-style creative portfolio
-- **The Wednesday Wanderer** — podcast site with an in-app player & listener community
+- **[ZADANxyz](https://zadan.xyz)** — artist hub with music streaming + visualizer, videography & photography
+- **[PaperShoots](https://papershoots.world)** — an immersive "daemonOS" desktop-style creative portfolio
+- **[The Wednesday Wanderer](https://tww.zathenaventures.xyz)** — podcast site with an in-app player & listener community
 
 **🕹️ Apps, Games & Tools**
-- **ZV Labs — Breach Protocol** — our video-game studio and its flagship browser-playable cyberpunk game
-- **Zathena Ventures 3D Experience** — an explorable, real-time WebGL world
-- **Delphi** — a cannabis community app (social, wellness tracking & events)
-- **JSXscribe & Product Factory** — internal tools for website-to-JSX conversion and product ideation
+- **[ZV Labs](https://labs.zathenaventures.xyz) — [Breach Protocol](https://labs.zathenaventures.xyz/breach-protocol)** — our video-game studio and its flagship browser-playable cyberpunk game
+- **[Zathena Ventures 3D Experience](https://app.zathenaventures.xyz)** — an explorable, real-time WebGL world
+- **[Delphi](https://delphi.zathenaventures.xyz)** — a cannabis community app (social, wellness tracking & events)
+- **[JSXscribe](https://jsx.zathenaventures.xyz) & [Product Factory](https://pf.zathenaventures.xyz)** — internal tools for website-to-JSX conversion and product ideation
 
 **🔗 Web3 / NFT**
-- **Creativos Collective & LIONS of ZATHENA** — digital collectible / NFT projects
+- **[Creativos Collective](https://github.com/ZATHENA-VENTURES/Creativos-Collective) & [LIONS of ZATHENA](https://github.com/ZATHENA-VENTURES/LIONS-of-ZATHENA)** — digital collectible / NFT projects
 
 👉 <a href="https://zathenaventures.xyz/portfolio" target="_blank"><b>View Full Portfolio</b></a>
 
