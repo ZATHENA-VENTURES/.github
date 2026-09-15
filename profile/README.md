@@ -74,8 +74,6 @@ ZATHENA VENTURES is more than digital services — we're a creative network span
 ## 👥 Meet the Team
 - **Michael Isbell** — *Founder & CEO*
   Visionary founder and lead developer, combining decades of design and full-stack expertise to transform ambitious ideas into elegant, impactful digital solutions.
-- **Tevin Bryant** — *Co-Founder & CPOO*
-  Strategic leader driving product innovation and operational excellence — ensuring seamless product delivery and efficient business operations.
 
 💡 We're always expanding our network, and all positions are remote.
 👉 <a href="https://zathenaventures.xyz/careers" target="_blank"><b>Careers at ZATHENA VENTURES</b></a>
