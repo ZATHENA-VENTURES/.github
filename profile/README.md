@@ -35,28 +35,27 @@ A look at projects we've designed, built, and shipped in-house:
 
 **🏢 Business & Brands**
 - **[New Covenant University](https://ncu.education)** — full university hub with degree programs, online admissions, bookstore & giving
-- **[Jarrad's Auto Service](https://jas.zathenaventures.xyz)** — service catalog with a cart, online booking & a customer portal
-- **[The Trinity Holistic Healing](https://thetrinityholistichealing.com)** — integrative holistic medicine & counseling practice
-- **[Sabina Was Here](https://sabina-was-here.com)** — art & merchandise e-commerce brand with Stripe checkout
+- **[The Trinity Holistic Healing](https://thetrinityholistichealing.com)** — integrative holistic medicine & counseling practice, with a companion iOS/Android app
+- **[MTV Weddings](https://mtvweddings.com)** — wedding officiation, premarital courses & wedding media across DFW
+- **[JR Blades](https://jrblades.org)** — custom knife forging studio with an interactive 3D knife builder
+- **[Sabina Was Here](https://www.sabinawashere.com)** — art & merchandise e-commerce brand
 
 **🏕️ Hospitality, Retail & Lifestyle**
-- **[Sound Ground](https://www.soundgroundtx.com)** — 10-acre eco-campground, working farm & community in Blanco, TX
-- **[Zathena Valley](https://farm.zathenaventures.xyz)** — homestead farm store (quail, eggs & goods), events & community hub
-- **[CannaCloud & Exclusive Smoke](https://smokeshopbtx.zathenaventures.xyz)** — multi-brand smoke-shop storefront with online ordering
+- **[Sound Ground](https://www.soundgroundtx.com)** — 10-acre eco-campground, working farm & creative community in Blanco, TX
+- **[Zathena Valley](https://farm.zathenaventures.xyz)** — homestead farm store with cart, checkout & inventory
 
 **🎙️ Artists & Creators**
-- **[ZADANxyz](https://zadan.xyz)** — artist hub with music streaming + visualizer, videography & photography
-- **[PaperShoots](https://papershoots.world)** — an immersive "daemonOS" desktop-style creative portfolio
-- **[The Wednesday Wanderer](https://tww.zathenaventures.xyz)** — podcast site with an in-app player & listener community
+- **[ZADAN](https://zadan.xyz)** — singer-songwriter hub with music streaming, media & merch
+- **[The Wednesday Wanderer](https://twwpodcast.xyz)** — podcast site for real conversations with people from all walks of life
+- **[Terah Marie](https://terahmarie.xyz)** — a 3D floating art world for a four-year-old artist, with a neurodivergence-friendly browser game
+- **[Raver Realm](https://raverrealm.xyz)** — the music collector's PFP world by Jadyn Violet
+- **[Michael B. Isbell Media](https://michaelbisbell.com)** — an interactive, Windows XP-themed portfolio experience
 
-**🕹️ Apps, Games & Tools**
-- **[ZV Labs](https://labs.zathenaventures.xyz) — [Breach Protocol](https://labs.zathenaventures.xyz/breach-protocol)** — our video-game studio and its flagship browser-playable cyberpunk game
-- **[Zathena Ventures 3D Experience](https://app.zathenaventures.xyz)** — an explorable, real-time WebGL world
-- **[Delphi](https://delphi.zathenaventures.xyz)** — a cannabis community app (social, wellness tracking & events)
-- **[JSXscribe](https://jsx.zathenaventures.xyz) & [Product Factory](https://pf.zathenaventures.xyz)** — internal tools for website-to-JSX conversion and product ideation
-
-**🔗 Web3 / NFT**
-- **[Creativos Collective](https://github.com/ZATHENA-VENTURES/Creativos-Collective) & [LIONS of ZATHENA](https://github.com/ZATHENA-VENTURES/LIONS-of-ZATHENA)** — digital collectible / NFT projects
+**🕹️ Apps, Games & Interactive**
+- **[ZV Labs](https://zvlabs.xyz)** — our video-game studio, playing browser games in a PS2-era console shell
+- **[ZV Media](https://zvmedia.xyz)** — our media arm, built as a television you tune rather than a site you scroll
+- **[Zathena Ventures 3D Experience](https://app.zathenaventures.xyz)** — a walkable 3D gallery of everything we make
+- **[Delphi](https://delphi.zathenaventures.xyz)** — a cannabis community app for social connection, health tracking & events
 
 👉 <a href="https://zathenaventures.xyz/portfolio" target="_blank"><b>View Full Portfolio</b></a>
 
