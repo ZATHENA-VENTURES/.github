@@ -95,7 +95,7 @@ We measure success through the impact we create for our partners.
 
 ## 📬 Connect With Us
 📧 Email: [support@zathenaventures.xyz](mailto:support@zathenaventures.xyz)
-📞 Phone: +1 (512) 537-8373
+📞 Phone: +1 (682) 233-4745
 📍 Location: Worldwide
 
 🌐 <a href="https://zathenaventures.xyz" target="_blank"><b>Website</b></a> •
