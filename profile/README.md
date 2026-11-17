@@ -39,7 +39,7 @@ Every project below was designed, built and shipped in-house. Each one has a pub
 - **[The Trinity Holistic Healing](https://thetrinityholistichealing.com)**: integrative holistic medicine and counseling practice, with its website, mobile app, desktop app, browser extension and community bots · [showcase](https://github.com/ZATHENA-VENTURES/TrinityHolisticHealing-Public)
 - **[MTV Weddings](https://mtvweddings.com)**: wedding officiation, premarital courses and wedding media across DFW · [showcase](https://github.com/ZATHENA-VENTURES/MTVWeddings-Public)
 - **[JR Blades](https://jrblades.org)**: custom knife forging studio with an interactive 3D knife builder · [showcase](https://github.com/ZATHENA-VENTURES/JRBlades-Public)
-- **Sabina Was Here**: art and merchandise e-commerce brand · [showcase](https://github.com/ZATHENA-VENTURES/SabinaWasHere-Public)
+- **[Sabina Was Here](https://sabina-was-here.com)**: art and merchandise e-commerce brand · [showcase](https://github.com/ZATHENA-VENTURES/SabinaWasHere-Public)
 
 **🏕️ Hospitality, Retail & Lifestyle**
 - **[Sound Ground](https://www.soundgroundtx.com)**: 10-acre eco-campground, working farm and creative community in Blanco, TX · [showcase](https://github.com/ZATHENA-VENTURES/SoundGround-Public)
@@ -52,13 +52,13 @@ Every project below was designed, built and shipped in-house. Each one has a pub
 - **[Raver Realm](https://raverrealm.xyz)**: the music collector's PFP world by Jadyn Violet · [showcase](https://github.com/ZATHENA-VENTURES/RaverRealm-Public)
 - **[Mumbo Vibes](https://mumbotopia.com)**: an artist's gallery you step inside, with prints, games and a supporter club · [showcase](https://github.com/ZATHENA-VENTURES/MumboVibes-Public)
 - **[The Autistic Aquarian](https://autisticaquarian.com)**: a tarot table that streams, with live shows and readings · [showcase](https://github.com/ZATHENA-VENTURES/AutisticAquarian-Public)
-- **[Michael B. Isbell Media](https://michaelbisbell.com)**: an interactive, Windows XP-themed portfolio experience · [showcase](https://github.com/ZATHENA-VENTURES/MBIM-Public)
+- **[Michael B. Hughes-Isbell Portfolio](https://michaelbisbell.com)**: an interactive, Windows XP-themed portfolio experience · [showcase](https://github.com/ZATHENA-VENTURES/MBIM-Public)
 
 **🕹️ Apps, Games & Interactive**
 - **[ZV Labs](https://zvlabs.xyz)**: our video-game studio, playing browser games in a PS2-era console shell · [showcase](https://github.com/ZATHENA-VENTURES/ZVLabs-Public)
 - **[ZV Media](https://zvmedia.xyz)**: our media arm, built as a television you tune rather than a site you scroll · [showcase](https://github.com/ZATHENA-VENTURES/ZVMedia-Public)
 - **[3D Zathena Ventures](https://app.zathenaventures.xyz)**: the Zathena Gallery, a walkable 3D world of everything we make · [showcase](https://github.com/ZATHENA-VENTURES/3DZathenaVentures-Public)
-- **Delphi**: a cannabis community app for social connection, health tracking and events · [showcase](https://github.com/ZATHENA-VENTURES/Delphi-Public)
+- **Delphi**: a cannabis community app for social connection, health tracking and events, in development for iOS · [showcase](https://github.com/ZATHENA-VENTURES/Delphi-Public)
 
 👉 <a href="https://zathenaventures.xyz/portfolio" target="_blank"><b>View Full Portfolio</b></a>
 
